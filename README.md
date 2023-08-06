@@ -7,4 +7,4 @@
 * Yukta Patel
 * Taranjot Singh
 
-Dataset link: [Click here][https://aiplanet.com/challenges/233/data-sprint-76-human-activity-recognition-233/data]
+Dataset link: [Click here](https://aiplanet.com/challenges/233/data-sprint-76-human-activity-recognition-233/data)
